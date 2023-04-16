@@ -26,4 +26,4 @@ Only use a air gapped computer for storing and other tasks (encryption, decrypti
 Requirement: True Random Number Generator - TRNG: example: XR232USB (http://jtxp.org/tech/xr232usb_en.htm)
 
 # compile: 
-gcc -o otp top.c
+gcc -o otp otp.c
