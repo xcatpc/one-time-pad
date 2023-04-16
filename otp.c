@@ -23,6 +23,15 @@
    #define clear system("cls")
    #define SLEEP Sleep
    #define SEK 3000
+#elif __APPLE__
+#include <sys/stat.h>
+   #include <sys/types.h>
+   #include <unistd.h>
+
+   #define clear system("clear")
+   #define SLEEP sleep
+   #define SEK 3
+
 #endif
 
 // PROTOTYPES  /////////////////////////////////////////////////////////////////////////////////////////////////
