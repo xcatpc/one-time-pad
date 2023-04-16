@@ -12,8 +12,11 @@ Each random sequence may only be used once!
 
 # Solution
 1.) Create a large true random number file (1 GB or more) (XR232USB)
+
 2.) Create a key pair and share the decryption key with your partner (must be a secure channel, personally)
+
 3.) For each encrypted file, the random numbers used are automatically subtracted.
+
 
 If you are using a 1 GB key only for small textfiles (messages) the key is not used up so quickly.
 
