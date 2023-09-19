@@ -1,6 +1,3 @@
-files stored also on IPFS
-https://ipfs.best-practice.se/ipfs/QmPopxPtcbHFBQ5MP1r2jHpaXJsjHq7eUhAkVE9cHU61Ym/
-
 # one-time-pad
 implemented the strongest encryption in the world (quantum computer resistent)
 Should work on linux, windows and macos
